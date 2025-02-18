@@ -1,0 +1,41 @@
+name: food_ordering_app
+version: 1.0.0+1
+description: A Flutter-based food ordering application.
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+  cupertino_icons: ^1.0.5
+
+  # State Management
+  provider: ^6.0.5
+
+  # Networking
+  http: ^1.3.0
+
+  # Image Loading
+  cached_network_image: ^3.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/pizza.jpeg
+    - assets/images/ice_cream.jpeg
+    - assets/images/burger.jpeg
+    - assets/images/coffee.jpeg
+    - assets/images/pasta.jpeg
+    - assets/images/chicken_burger.jpeg
+    - assets/images/order_tracking_map.jpeg
+    - assets/images/order_tracking_map.png
+    - assets/images/order_confirmation.png
+    - assets/images/card_placeholder.png
+    - assets/images/profile_picture.jpeg
+    - assets/images/splash_screen.png
