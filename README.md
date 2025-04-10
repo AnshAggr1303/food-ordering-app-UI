@@ -17,9 +17,11 @@ A modern and visually appealing **Food Ordering App UI** built using **Flutter**
 
 ## 📸 Screenshots
 
-<img src="screenshots/FDA1.jpeg" width="300">
-<img src="screenshots/FDA2.jpeg" width="300">
-<img src="screenshots/FDA3.jpeg" width="300">
+<div align="center">
+  <img src="screenshots/FDA1.jpeg" width="30%" style="margin: 10px;">
+  <img src="screenshots/FDA2.jpeg" width="30%" style="margin: 10px;">
+  <img src="screenshots/FDA3.jpeg" width="30%" style="margin: 10px;">
+</div>
 
 ---
 
