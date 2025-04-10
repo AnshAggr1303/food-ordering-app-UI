@@ -27,7 +27,7 @@ class SplashScreen extends StatelessWidget {
           Padding(
             padding: EdgeInsets.symmetric(horizontal: 40),
             child: Text(
-              "Whether you're craving pizza, sushi, or something in between, we have got your back.",
+              "Whether you're craving pizza, pasta, or something in between, we have got your back.",
               textAlign: TextAlign.center,
               style: TextStyle(fontSize: 16, color: Colors.grey),
             ),

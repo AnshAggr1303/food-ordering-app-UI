@@ -57,7 +57,7 @@ class ProfileScreen extends StatelessWidget {
                   child: Icon(Icons.logout, color: Colors.red),
                 ),
               ),
-              SizedBox(height: 120),
+              SizedBox(height: 135),
             ],
           ),
         ),
