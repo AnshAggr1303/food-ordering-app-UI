@@ -79,7 +79,7 @@ Please ensure your code follows the project's coding conventions and is properly
 
 For any questions, suggestions, or collaborations, feel free to reach out:
 
-- **Name**: Ansh Agrawal  
-- **Email**: [anshagrawal2005@gmail.com](mailto:anshagrawal148@gmail.com)  
-- **GitHub**: [AnshAggr1303](https://github.com/AnshAggr1303)  
+- **Name**: Ansh Agrawal, Anirudh Jain, Vathsal Upadhyay 
+- **Email**: [anshagrawal2005@gmail.com](mailto:anshagrawal148@gmail.com), [jn.anirudh@gmail.com](mailto:jn.anirudh@gmail.com) 
+- **GitHub**: [AnshAggr1303](https://github.com/AnshAggr1303), [jnanirudh](https://github.com/jnanirudh) 
 
